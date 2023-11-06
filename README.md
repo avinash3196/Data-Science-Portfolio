@@ -1,4 +1,7 @@
 # Data-Science-Portfolio
+This repository is a collection of data science projects I have completed for academic and self-learning purposes. These projects are presented in the form of Jupyter notebooks.
+
+Please note that the data used in these projects is for demonstration purposes only and does not represent real-world data.
 
 # ML Projects:
 ### [1. House Price Prediction Using Linear Regression Model](https://github.com/avinash3196/Data-Science-Portfolio/tree/main/House%20Price%20Prediction)
@@ -9,3 +12,7 @@ Segmentation is a very common practice, adopted by all organizations to achieve 
 
 ### [3. Stock Price Prediction Using ARIMA and Auto-ARIMA Model](https://github.com/avinash3196/Data-Science-Portfolio/tree/main/Stock%20Price%20Prediction)
 The accurate prediction of stock prices will enable the investor to make well-informed decisions in current dynamic market. Effective forecasting will also help in managing risks associated with stock market investments, contributing to more strategic financial planning. The primary objective of this project is to predict the stock prices using Time Series Analysis techniques,  for which I have chosen Tata Motors company. Seeing people gradually taking an interest in the stock market in India, has motivated me to work on this project.
+
+_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, NumPy, Statsmodel_
+
+If you found the content interesting and would like to discuss the portfolio, potential work opportunities, or collaboration, shoot an email at [gmail](avinashgupta3196@gmail.com)
