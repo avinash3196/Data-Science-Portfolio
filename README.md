@@ -1,3 +1,5 @@
+[_Github Profile_](https://github.com/avinash3196)
+
 # Data-Science-Portfolio
 This repository is a collection of data science projects I have completed for academic and self-learning purposes. These projects are presented in the form of Jupyter notebooks.
 
