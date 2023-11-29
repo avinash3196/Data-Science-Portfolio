@@ -4,7 +4,7 @@ This repository is a collection of data science projects I have completed for ac
 Please note that the data used in these projects is for demonstration purposes only and does not represent real-world data.
 
 # ML Projects:
-### [1. House Price Prediction Using Linear Regression Model](https://github.com/avinash3196/Data-Science-Portfolio/tree/main/House%20Price%20Prediction)
+### [1. House Price Prediction Using Linear Regression Model](https://github.com/avinash3196/Data-Science-Portfolio/tree/main/House%20Price%20Prediction/Real%20Estate Price%20Prediction.ipynb)
 House is probably the biggest spend for most Indians. And  with urban population increasing manifold, buying a house  in a large city, which is where most jobs are likely to be, has  become difficult—the main obstacle being cost. Determining a  property’s value is difficult. The objective of the project is to develop a machine learning model that accurately predicts house prices in Bangalore, leveraging a dataset obtained from Kaggle. The model is built to provide reliable estimates and be accessible to users through a web application for making informed decisions.
 
 ### [2. Customer Segmentation Using K-Means Algorithm](https://github.com/avinash3196/Data-Science-Portfolio/tree/main/Customer%20Segmentation%20Using%20RFM%20Model)
