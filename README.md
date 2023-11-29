@@ -16,3 +16,5 @@ The accurate prediction of stock prices will enable the investor to make well-in
 _Tools: scikit-learn, Pandas, Seaborn, Matplotlib, NumPy, Statsmodel_
 
 If you found the content interesting and would like to discuss the portfolio, potential work opportunities, or collaboration, shoot an email at avinashgupta3196@gmail.com
+
+[Visit github Profile](https://github.com/avinash3196)
